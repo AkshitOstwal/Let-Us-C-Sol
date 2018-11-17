@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-main()
+void main()
 {
 	char f[10];
 	char m[10];
