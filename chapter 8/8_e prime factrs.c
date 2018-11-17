@@ -22,3 +22,4 @@ int primefactors(int n){
 		} 	
 	}
 }
+//thanks a lot
