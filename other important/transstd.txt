@@ -1,0 +1,6 @@
+d 1 abcd
+a 1 abba
+d 4 bcd
+a 4 banno
+d 6 dca
+a 6 dhariya
