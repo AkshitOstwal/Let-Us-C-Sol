@@ -1,7 +1,9 @@
+// reversing a number
 #include<stdio.h>
 #include<conio.h>
 int main()
 {
+  clrscr();
 int n,rev,rem;
 rev=0;
 printf("enter any integer\n");
