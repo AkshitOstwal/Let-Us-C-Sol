@@ -7,4 +7,6 @@
 void main(){
 	gotoxy(0,1);
 	printf("**");
+	gotoxy(1,1);
+	printf("##");
 }
